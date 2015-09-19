@@ -1,4 +1,4 @@
-package com.senior.reasearch.main;
+package com.senior.research.main;
 
 import java.io.File;
 
